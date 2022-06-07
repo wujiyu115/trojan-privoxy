@@ -1,6 +1,7 @@
 # trojan-privoxy
 
 trojan client with privoxy for http proxy
+suport remote host
 
 ## How to use
 
